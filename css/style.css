@@ -1,0 +1,95 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: #042d33;
+    color: white;
+}
+
+main {
+    max-width: 1500px;
+    margin-bottom: 200px;
+
+}
+
+p {
+    font-size: 1.3em;
+}
+
+header {
+    background-color: #142220;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+nav {
+    background-color: #042e25;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: #fff;
+	font-size: 20px;
+    text-decoration: none;
+	padding: 10px;
+}
+
+nav a:hover {
+	color: #61bb8e;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+    margin-bottom: 150px;
+}
+
+footer {
+    background-color: #042e25;
+    color: #fff;
+    text-align: center;
+}
+
+address {
+    padding-right: 75px;
+    padding-top: 15px;
+    text-align: right;
+}
+
+img {
+    border-style: 1px solid black;
+    padding: 20px;
+}
+
+/*
+#welcome {
+    color: #fff;
+}
+
+#carousel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-height: 300px;
+    overflow: hidden;
+    gap: 10px;
+}
+
+#carousel img {
+    max-height: 300px;
+    aspect-ratio: auto 300 / 400;
+    border-radius: 10px;
+}
+
+#buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-top: 10px;
+}*/

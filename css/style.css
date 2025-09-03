@@ -65,11 +65,16 @@ img {
     padding: 20px;
 }
 
-/*
 #welcome {
     color: #fff;
+    text-align: left;
+    font-size: xx-large;
+    font-style: bold;
+    margin-left: 60px;
+    margin-top: 20px;
 }
 
+/*
 #carousel {
     display: flex;
     justify-content: center;
